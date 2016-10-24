@@ -15,7 +15,7 @@
 ## Objetivo:
 
 * Extração de Atributos de Nódulos Pulmonares
-  * Imagem Tomografia de Computadorizada
+  * Imagem de Tomografia Computadorizada
     * Nódulo de Câncer de Pulmão
     * Nódulo foi Segmentado Manualmente
     * Disponível em:
