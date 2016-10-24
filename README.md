@@ -12,6 +12,19 @@
 ## Professor:
 * Marcelo Costa Oliveira
 
+## Objetivo:
+
+* Extração de Atributos de Nódulos Pulmonares
+  * Imagem Tomografia de Computadorizada
+    * Nódulo de Câncer de Pulmão
+    * Nódulo foi Segmentado Manualmente
+    * Disponível em:
+      * [Dropbox Content](https://dl.dropboxusercontent.com/u/11507361/noduloSegmentado.tar)
+
+## Ferramentas Utilizadas:
+
+* Software: [Fiji](https://fiji.sc/) com o plugin Trainable Weka Segmentation.
+
 ## Procedimento
 
 1. Ao abrimos a ferramenta Fiji, abrimos o plugin Trainable Weka Segmentation;
