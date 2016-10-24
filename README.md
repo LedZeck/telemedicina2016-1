@@ -2,7 +2,7 @@
 
 ## Projeto AB2
 
-### Análise de imagens médicas e definição de atributos de identificação com o software Fiji.
+### Análise de imagens médicas e definição de atributos de identificação com o software ImageJ/Fiji com Trainable Weka Segmentation.
 
 ## Grupo:
 * Eric Araújo;
