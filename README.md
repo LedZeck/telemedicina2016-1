@@ -27,7 +27,7 @@
 
 ## Procedimento
 
-1. Ao abrimos a ferramenta Fiji, abrimos o plugin Trainable Weka Segmentation;
+1. Ao abrirmos a ferramenta Fiji, abrimos o plugin Trainable Weka Segmentation;
 
 2. Carregamos a imagem (nodulo35) no plugin;
 
