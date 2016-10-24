@@ -1,4 +1,4 @@
-# Telemedicina 2016.1
+# Fundamentos em Informática Médica e Telemedicina
 
 ## Projeto AB2
 
