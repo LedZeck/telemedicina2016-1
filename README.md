@@ -31,17 +31,17 @@
 
 2. Carregamos a imagem (nodulo35) no plugin;
 
-  ![alt tag](https://github.com/LedZeck/telemedicina2016-1/blob/master/Image-nodulo.PNG)
+  ![alt tag](https://github.com/LedZeck/telemedicina2016-1/blob/master/Images/Image-nodulo.PNG)
 
 3. Em seguida foram selecionadas as regiões na imagem para cada classe, então foi gerada a classificação com as regioes demarcadas;
 
-  ![alt tag](https://github.com/LedZeck/telemedicina2016-1/blob/master/Image-1.PNG)
+  ![alt tag](https://github.com/LedZeck/telemedicina2016-1/blob/master/Images/Image-1.PNG)
 
 4. Foi salvo o resultado em ("Save data") um formato .arff;
 
 5. Abrimos o Weka Explorer e abrimos o resultado salvo, desta forma foi possível observar que obtivemos 80 atributos, dentro os quais escolhemos dez para apresentar os gráficos dos mesmos;
 
-  ![alt tag](https://github.com/LedZeck/telemedicina2016-1/blob/master/Image-0.PNG)
+  ![alt tag](https://github.com/LedZeck/telemedicina2016-1/blob/master/Images/Image-0.PNG)
 
 6. Os atributos escolhidos foram os das imagens abaixo:
 
